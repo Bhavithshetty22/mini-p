@@ -1,1 +1,1 @@
-# mini-p
+# minit
